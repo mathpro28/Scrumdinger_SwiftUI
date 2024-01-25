@@ -20,7 +20,11 @@ Swift, SwiftUI, Xcode, iOS 17
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Meeting Info](https://github.com/mathpro28/Scrumdinger_SwiftUI/assets/107863034/a472b517-2ad1-4873-b569-f8919b17e2ce)
+![Choosing Your Color](https://github.com/mathpro28/Scrumdinger_SwiftUI/assets/107863034/924b2d18-7629-4564-9e19-93b8d2b64f26)
+![Meeting History](https://github.com/mathpro28/Scrumdinger_SwiftUI/assets/107863034/e82cd2de-0faa-4d86-b16b-3e4f3dd2b923)
+![The Color of Your Preference](https://github.com/mathpro28/Scrumdinger_SwiftUI/assets/107863034/6fc50bc4-3d06-4f85-bf0c-e9aef1e278b1)
+
 
 
 ## Used By
