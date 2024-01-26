@@ -9,6 +9,10 @@ This application is designed to efficiently and systematically organize meetings
 - [@mathpro28](https://github.com/mathpro28)
 
 
+## How to use it
+
+In order to install the Scrumdinger App, you need to clone or download the project. Once you have done that, feel free to run the project.
+
 ## Documentation
 
 [Getting started with Scrumdinger](https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger)
